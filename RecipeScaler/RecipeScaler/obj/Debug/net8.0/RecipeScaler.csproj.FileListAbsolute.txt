@@ -1,0 +1,14 @@
+C:\Users\0205235670085\source\repos\RecipeScaler\RecipeScaler\bin\Debug\net8.0\RecipeScaler.exe
+C:\Users\0205235670085\source\repos\RecipeScaler\RecipeScaler\bin\Debug\net8.0\RecipeScaler.deps.json
+C:\Users\0205235670085\source\repos\RecipeScaler\RecipeScaler\bin\Debug\net8.0\RecipeScaler.runtimeconfig.json
+C:\Users\0205235670085\source\repos\RecipeScaler\RecipeScaler\bin\Debug\net8.0\RecipeScaler.dll
+C:\Users\0205235670085\source\repos\RecipeScaler\RecipeScaler\bin\Debug\net8.0\RecipeScaler.pdb
+C:\Users\0205235670085\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net8.0\RecipeScaler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0205235670085\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net8.0\RecipeScaler.AssemblyInfoInputs.cache
+C:\Users\0205235670085\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net8.0\RecipeScaler.AssemblyInfo.cs
+C:\Users\0205235670085\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net8.0\RecipeScaler.csproj.CoreCompileInputs.cache
+C:\Users\0205235670085\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net8.0\RecipeScaler.dll
+C:\Users\0205235670085\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net8.0\refint\RecipeScaler.dll
+C:\Users\0205235670085\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net8.0\RecipeScaler.pdb
+C:\Users\0205235670085\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net8.0\RecipeScaler.genruntimeconfig.cache
+C:\Users\0205235670085\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net8.0\ref\RecipeScaler.dll
